@@ -363,7 +363,7 @@ class GUI implements ActionListener
 			}
 			if (input.contains("^")) 
 			{
-
+   
 				token[0] = input.substring(0,input.indexOf('^'));
 				token[1] = input.substring(input.indexOf('^')+1);
 				if(token[1].equals("2") && token[1].length()==1)
