@@ -163,7 +163,6 @@ class GUI implements ActionListener
 			b6.setBounds(170,290,65,50);
 			c.add(b6);
 
-//			c.add(Sinx);
 		plus = new JButton ("+");
 		plus.setFont(font);
 		plus.setBackground(color3);
@@ -171,7 +170,6 @@ class GUI implements ActionListener
 		plus.setBounds(255,290,65,50);
 		c.add(plus);
 
-//			c.add(Cosx);
 
 		// =========================Row5=============================
 			
