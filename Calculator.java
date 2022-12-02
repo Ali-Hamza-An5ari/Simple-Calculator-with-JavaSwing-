@@ -54,8 +54,6 @@ class GUI implements ActionListener
 		r1.addActionListener(this);
 		r2.addActionListener(this);
 
-//		r1.addItemListener(this);
-//		r2.addItemListener(this);
 
 		ButtonGroup bg=new ButtonGroup();
 		bg.add(r1);bg.add(r2);
