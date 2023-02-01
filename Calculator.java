@@ -211,7 +211,6 @@ class GUI implements ActionListener
 			b0.addActionListener(this);
 			b0.setBounds(10,430,145,50);
 			c.add(b0);		
-
 	
 	}
 
