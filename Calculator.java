@@ -68,7 +68,6 @@ class GUI implements ActionListener
 		
 		// ===================================Row1==========================
 
-
 		clear = new JButton ("C");
 			clear.setFont(font);
 			clear.setBackground(color2);
